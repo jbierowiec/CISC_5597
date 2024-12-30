@@ -26,6 +26,7 @@ This project simulates a distributed **Two-Phase Commit (2PC)** protocol with th
 ## Setup Instructions
 
 1. Make sure that `coordinator.py`, `participant_crash.py`, and `participant.py` are all in the same directory.
+  
 2. Open separate terminal windows for each participant and coordinator as instructed in each of the scenarios below.
 
   ### Scenario 1: No Failures (Participant 1 transfers $100 from Account A to Account B to Participant 2)
