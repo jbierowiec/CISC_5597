@@ -1,0 +1,120 @@
+INFO:root:Node 0: Randomly rejecting prepare for proposal 14.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Randomly rejecting prepare for proposal 14.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 14.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 15.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Randomly rejecting prepare for proposal 16.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 16.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Randomly rejecting prepare for proposal 16.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 16.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Randomly rejecting prepare for proposal 17.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Randomly rejecting prepare for proposal 17.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 17.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 18.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Randomly rejecting prepare for proposal 18.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 18.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 19.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Randomly rejecting prepare for proposal 20.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 20.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Randomly rejecting prepare for proposal 20.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 20.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Randomly rejecting prepare for proposal 21.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 21.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 1: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 2: Randomly rejecting prepare for proposal 1.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Broadcast value 'Value_A' written to file.
+INFO:root:Node 2: Broadcast value 'Value_A' written to file.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Broadcast value 'Value_A' written to file.
+INFO:root:Node 2: Broadcast value 'Value_A' written to file.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 1: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 1: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 1: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 2: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 1: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 1: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 2: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 0: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 1: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 2: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 1: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 2: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 1: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 2: Accepted proposal 1 with value 'Value_A'.
+INFO:root:Node 0: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 1: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 1: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 2: Accepted proposal 2 with value 'Value_A'.
+INFO:root:Node 1: Consensus reached for value 'Value_A'. Broadcasting value to all nodes.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 1: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 2: Accepted proposal 1 with value 'Value_B'.
+INFO:root:Node 1: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 0: Broadcast value 'Value_B' written to file.
+INFO:root:Node 2: Broadcast value 'Value_B' written to file.
+INFO:root:Node 0: Prepare phase failed.
+INFO:root:Node 0: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 1: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 2: Accepted proposal 2 with value 'Value_B'.
+INFO:root:Node 0: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 1: Broadcast value 'Value_B' written to file.
+INFO:root:Node 2: Broadcast value 'Value_B' written to file.
+INFO:root:Node 0: Accepted proposal 3 with value 'Value_B'.
+INFO:root:Node 1: Accepted proposal 3 with value 'Value_B'.
+INFO:root:Node 2: Accepted proposal 3 with value 'Value_B'.
+INFO:root:Node 0: Consensus reached for value 'Value_B'. Broadcasting value to all nodes.
+INFO:root:Node 1: Broadcast value 'Value_B' written to file.
+INFO:root:Node 2: Broadcast value 'Value_B' written to file.INFO:root:Node 2: Received exit signal. Shutting down.
