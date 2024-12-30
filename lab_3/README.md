@@ -1,4 +1,4 @@
-# Lab 3 Two Phase Commit Protocol 
+# Lab 3 - Two Phase Commit Protocol 
 
 This project simulates a distributed **Two-Phase Commit (2PC)** protocol with three nodes based on a coordinator (`coordinator.py`) file and two participant (`participant_crash.py` & `participant.py`) files managing accounts. The protocol ensures atomicity and consistency for distributed transactions.
 
