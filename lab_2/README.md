@@ -26,6 +26,7 @@ This project implements a basic paxos algorithm in relation to consensus and con
 ## Setup Instructions
 
 1. Make sure that `client_a.py`, `client_b.py`, and `server.py` are all in the same directory.
+  
 2. Open separate terminal windows for each server and client as instructed in each of the scenarios below.
 
   ### Scenario 1: Single Proposer (Client A Only)
