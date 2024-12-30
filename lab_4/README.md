@@ -22,6 +22,7 @@ This project implements a Kafka-based messaging system using Python, Docker, and
 ## Setup Instructions
 
 1. Make sure that `docker-compose.yaml`, `kafka_consumer.py`, and `kafka_producer.py` are all in the same directory.
+
 2. Open separate terminal windows setting up the `docker-compose.yaml` file, and running the `kafka_producer.py` and `kafka_consumer.py` files. 
 
   ### Kafka Environment Setup
