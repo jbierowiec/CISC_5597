@@ -28,7 +28,7 @@ the msg(string) to the other client with the ID that listed the command. The ser
 
 ## Setup Instructions 
 
-1. Make sure that you are in the `Lab_1` directory.
+1. Make sure that `server.py` and `client.py` are in the same directory.
 
 2. To run the server, follow these steps:
 
