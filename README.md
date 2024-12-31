@@ -18,5 +18,5 @@ This repository contains all four labs that I and [Rahul Kumar](https://github.c
 ├── Lab_1
 ├── Lab_2
 ├── Lab_3
-└── Lab 4
+└── Lab_4
 ```
